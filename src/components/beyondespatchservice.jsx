@@ -24,7 +24,7 @@ const BeyondDispatchServices = () => {
         <h2 className="text-4xl  font-Montserrat font-bold">Beyond dispatch services</h2>
         <p className="text-gray-600 mt-4 font-Montserrat">
           We go beyond dispatch for trucks by providing comprehensive administrative 
-          support to make your job easier and save you money. With Haul Nova Dispatch, 
+          support to make your job easier and save you money. With Way Finder Logistics Dispatch, 
           you can leave all your freight operations to us.
         </p>
 

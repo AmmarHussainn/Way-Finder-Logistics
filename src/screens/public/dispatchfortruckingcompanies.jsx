@@ -11,7 +11,7 @@ const Dispatchfortruckingcompanies = () => {
     const fleetPriorityData = {
         heading: 'Your Fleet - Our Top Priority',
         description:
-          'At Haul Nova, we take the wheel to drive your trucking business forward. With our customer-oriented approach, we treat your fleet as our own, ensuring effective dispatch solutions tailored to your unique needs.',
+          'At Way Finder Logistics, we take the wheel to drive your trucking business forward. With our customer-oriented approach, we treat your fleet as our own, ensuring effective dispatch solutions tailored to your unique needs.',
         image1: Images.truckrow,
         image1Alt: 'Fleet of Trucks',
         sections1: [

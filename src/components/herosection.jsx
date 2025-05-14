@@ -30,7 +30,7 @@ const HeroSection = () => {
             Reliable Truck Dispatching Services for Owner-Operators & Fleet Owners
           </h1>
           <p className="text-lg font-Montserrat ">
-            Haul Nova provides expert truck dispatching services, helping
+            Way Finder Logistics provides expert truck dispatching services, helping
             owner-operators and fleet owners maximize profits with efficient
             load booking, route optimization, and 24/7 support. Get top-paying
             freight without the hassle!

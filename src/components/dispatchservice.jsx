@@ -27,7 +27,7 @@ const DispatchService = () => {
       <div>
         <h2 className="text-4xl font-bold font-bebas">Seamless 24/7 dispatch service</h2>
         <p className="text-gray-600 mt-4 font-Montserrat">
-          At Haul Nova, we prioritize efficiency, reliability, and customer satisfaction, pairing lower dispatch rates with true trucking experts. Our route planning, based on trusted contacts, ensures swift and precise dispatching, keeping your cargo moving smoothly.
+          At Way Finder Logistics, we prioritize efficiency, reliability, and customer satisfaction, pairing lower dispatch rates with true trucking experts. Our route planning, based on trusted contacts, ensures swift and precise dispatching, keeping your cargo moving smoothly.
         </p>
 
         {/* Checklist */}

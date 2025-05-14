@@ -11,7 +11,7 @@ const Services = () => {
 
         {/* Description */}
         <p className='text-xl text-gray-700 leading-relaxed mb-12 font-montserrat'>
-          At <strong className='text-[#ff6900]'>Haul Nova</strong>, we provide top-tier truck dispatching services
+          At <strong className='text-[#ff6900]'>Way Finder Logistics</strong>, we provide top-tier truck dispatching services
           designed to maximize your efficiency and profitability. Our team ensures
           that you get the best loads while handling all the logistics, so you
           can focus on the road.

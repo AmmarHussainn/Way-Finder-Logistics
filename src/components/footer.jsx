@@ -7,7 +7,7 @@ const Footer = () => {
       <div className='max-w-7xl mx-auto grid md:grid-cols-3 gap-8 text-center md:text-left'>
         {/* Company Info */}
         <div>
-          <h3 className='text-2xl font-bold mb-4'>Haul Nova</h3>
+          <h3 className='text-2xl font-bold mb-4'>Way Finder Logistics</h3>
           <p className='text-[#ffffff] text-lg'>
             Reliable truck dispatching services to keep your business moving forward.
           </p>
@@ -41,7 +41,7 @@ const Footer = () => {
       
       {/* Copyright Section */}
       <div className='text-center text-[#ffffff] text-sm mt-10 border-t border-gray-700 pt-6'>
-        © {new Date().getFullYear()} Haul Nova. All Rights Reserved.
+        © {new Date().getFullYear()} Way Finder Logistics. All Rights Reserved.
       </div>
     </footer>
   );
