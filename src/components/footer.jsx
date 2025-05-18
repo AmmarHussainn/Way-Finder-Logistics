@@ -26,7 +26,7 @@ const Footer = () => {
         <div>
           <h4 className='text-xl font-semibold mb-4'>Contact Us</h4>
           {/* <p className='text-[#ffffff]'>📍 123 Logistics St, City, State</p> */}
-          <p className='text-[#ffffff]'>📧 dispatch@haulnova.com</p>
+          <p className='text-[#ffffff]'>📧 dispatch@wayfinderlogisticsnetwork.com</p>
           <p className='text-[#ffffff]'>📞 (602) 529-6927</p>
           
           {/* Social Media Icons */}

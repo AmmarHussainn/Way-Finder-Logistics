@@ -49,7 +49,7 @@ const ContactUs = () => {
             <Mail className="text-orange-500" />
             <div>
               <p className="text-gray-600 font-montserrat">Email Us</p>
-              <p className="font-bold font-Montserrat">dispatch@haulnova.com</p>
+              <p className="font-bold font-Montserrat">dispatch@wayfinderlogisticsnetwork.com</p>
             </div>
           </div>
         </div>
